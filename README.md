@@ -1,5 +1,5 @@
 # EE0005 Introduction to Data Science and Artificial Intelligence: Red Wine Quality Exploratory Analysis
-This repository contains an exploratory analysis of red wine quality data. The analysis aims to gain insights into the quality of red wine produced by a manufacturer based on various factors.
+This repository contains an exploratory analysis of red wine quality data. The analysis aims to gain insights into the quality of red wine based on various factors.
 
 ## Overview
 The project explores a dataset containing information about syrup quality, including attributes such as residual sugar, pH, fixed acidity, volatile acidity, viscosity, alcohol and sulphates. The analysis involves data cleaning, visualization, and statistical exploration to understand the factors influencing syrup quality.
