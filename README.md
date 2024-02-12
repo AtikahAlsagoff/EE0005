@@ -5,7 +5,7 @@ This repository contains an exploratory analysis of red wine quality data. The a
 The project explores a dataset containing information about syrup quality, including attributes such as residual sugar, pH, fixed acidity, volatile acidity, viscosity, alcohol and sulphates. The analysis involves data cleaning, visualization, and statistical exploration to understand the factors influencing syrup quality.
 
 ## Data Source
-Kaggle: [Red Wine Quality Dataset]
+Kaggle: [Red Wine Quality Dataset](#)
 
 ## Skillsets
 - Data Exploratory
